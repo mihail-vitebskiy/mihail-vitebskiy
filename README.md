@@ -16,6 +16,7 @@
 #### Мои проекты:
 [![Xiaomi](https://img.shields.io/badge/-Xiaomi-141130?style=for-the-badge)](https://miwgan.github.io/Xiaomi-Himo)
 [![W/wawe](https://img.shields.io/badge/-W/wawe-141130?style=for-the-badge)](https://miwgan.github.io/layout-radio-w-wawe/)
+[![lagoona](https://img.shields.io/badge/-lagoona-141130?style=for-the-badge)](https://miwgan.github.io/lagoona/)
 
 #### Мои контакты:
 [![Mail](https://img.shields.io/badge/-9671777103@mail.ru-141130?style=for-the-badge&logo=Mail.Ru)](mailto:9671777103@mail.ru)
