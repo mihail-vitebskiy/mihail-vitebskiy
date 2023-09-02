@@ -1,6 +1,7 @@
 <h2 align="center">Hi there!👋</h2>
 <p align="center">
-  <samp>I am a Frontend JavaScript Junior developer.</samp>
+  <samp>I am a Frontend developer.</samp>
+  <samp>My name is Mihail, I'm from Moscow!</samp>
   <br><br>
 </p>
 
